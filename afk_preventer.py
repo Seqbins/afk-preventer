@@ -5,6 +5,7 @@ import os
 import pyautogui
 import random
 
+os.environ["PYSREEZE_USE_OPENCV"] = "0"
 OS = platform.system()
 
 # check for supported OS and display instructions if needed

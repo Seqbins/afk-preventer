@@ -10,7 +10,17 @@ A lightweight Python script that simulates periodic key presses to keep your sys
 - **Key selection** — choose any valid keyboard key (defaults to `shift`)
 - **Natural randomization** — slight timing variation to mimic real key presses
 - **Cross-platform** — works on macOS, Linux, and Windows
-- **Lightweight** — minimal dependencies, easy to run
+- **Lightweight** — simple and easy to use
+
+---
+
+## Quick Start (Windows)
+
+1. Go to the **Releases** page  
+2. Download `AFK_Preventer.exe`  
+3. Run the file  
+
+No Python or installation required.
 
 ---
 
@@ -27,7 +37,7 @@ pip install -r requirements.txt
 
 ---
 
-## Usage
+## Usage (Python version)
 
 Run the script:
 

@@ -16,7 +16,7 @@ A lightweight Python script that simulates periodic key presses to keep your sys
 
 ## Quick Start (Windows)
 
-1. Go to the **Releases** page  
+1. Go to the **[Releases](https://github.com/Seqbins/afk-preventer/releases)** page  
 2. Download `AFK_Preventer.exe`  
 3. Run the file  
 

@@ -52,11 +52,11 @@ Ctrl + C
 
 ## Use Cases
 
-- 🎮 **Games** — stay marked as active and avoid being kicked for inactivity in online games
-- 💬 **Chat & messaging apps** — keep your status as "online" or "active"
-- 🖥️ **Remote desktop / VMs** — prevent idle disconnects during long sessions
-- ⏳ **Long-running tasks** — stop your screen from locking while waiting for downloads, renders, or builds
-- 🏢 **Work apps** — keep activity status green in tools like Teams or Slack
+-  **Games** — stay marked as active and avoid being kicked for inactivity in online games
+-  **Chat & messaging apps** — keep your status as "online" or "active"
+-  **Remote desktop / VMs** — prevent idle disconnects during long sessions
+-  **Long-running tasks** — stop your screen from locking while waiting for downloads, renders, or builds
+-  **Work apps** — keep activity status green in tools like Teams or Slack
 
 ---
 
